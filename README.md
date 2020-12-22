@@ -4,13 +4,13 @@
 
 ## 有代码
 
-###### 1、PL-SLAM（good,纯视觉）
+###### 1、PL-SLAM（纯视觉）
 
 PL-SLAM: A Stereo SLAM System Through the Combination of Points and Line Segments
 
 2019 [TRO](https://ieeexplore.ieee.org/document/8680013) ;[code](https://github.com/rubengooj/pl-slam) ;by [MAPIR](http://mapir.isa.uma.es/mapirwebsite/index.php/people/164-ruben-gomez)
 
-###### 2、PL-SLAM（NO，纯视觉）（ORB_SLAM2 plus）
+###### 2、PL-SLAM（纯视觉）（ORB_SLAM2 plus）
 
 PL-SLAM: Real-Time Monocular Visual SLAM with Points and Lines
 
@@ -50,7 +50,7 @@ Structure-SLAM: Low-Drift Monocular SLAM in Indoor Environments
 
 2020 [RAL](https://ieeexplore.ieee.org/document/9165014) (IEEE Robotics and Automation Letters) ;[code](https://github.com/yanyan-li/Structure-SLAM-PointLine) ;by [Yanyan Li](http://campar.in.tum.de/Main/YanyanLi)
 
-###### 5、PL-MVO（NO）
+###### 5、PL-MVO
 
 Combining Points and Lines for Camera Pose Estimation and Optimization in Monocular Visual Odometry
 
